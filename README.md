@@ -2,8 +2,7 @@
 
 ### Empowering Innovation & Excellence in Software Development
 
-Sohojware is a dynamic software development company headquartered in Bangladesh. Founded in **July 2022**, we have grown from a small team of **3 developers** into a robust, diverse, and highly skilled team of **15 developers** specializing in a wide range of technologies. Our commitment to quality, client satisfaction, and continuous improvement has helped us achieve remarkable growth, increasing monthly revenue from **5 lac** to **30 lac BDT**. We specialize in delivering tailor-made digital solutions for businesses of all sizes.
-
+At our core, we prioritize building long-lasting relationships with our clients. For us, business is not the first priority - it's the relationship. We believe that establishing trust and understanding our clients' needs is crucial to delivering exceptional online solutions. Our commitment to client satisfaction and conducting business with the utmost professionalism has earned us the trust of clients worldwide. Let us help you build a strong online presence and achieve success - but first, let's build a relationship.
 ---
 
 ### Our Vision
@@ -27,20 +26,35 @@ We embrace modern technologies to deliver high-quality solutions:
 
 ## 🌟 Featured Projects
 
-### 1. UKRBD (eCommerce Platform)
-**Tech Stack**: Laravel, Vue.js, MySQL  
-- A scalable eCommerce platform tailored for the UK and Bangladesh markets.  
-- Features include a dynamic product catalog, advanced search, payment gateway integration, and a responsive UI.
+### 1. iZiiBuy (Online Store Platform)
+**Website**: [iziibuy.com](https://iziibuy.com)  
+**Tech Stack**: Laravel, Livewire, MySQL  
+- Simple 1-2-3 setup for creating customizable online stores.  
+- Inventory management with real-time sales tracking and employee access.
+- Supports smartphone-based customer payments for a seamless shopping experience.
+  
+### 2. Rankauf.de (Online Goods Buyback & Resale Platform)
+**Website**: [rankauf.de](https://rankauf.de)  
+**Tech Stack**: Laravel, Livewire, MySQL  
+- A user-friendly platform for buying and reselling used items with quick cash payouts.
+- Fair and neutral valuation of goods to benefit both sellers and buyers.
+- Focused on smooth processes, secure packaging, and excellent customer support.
 
-### 2. Kemea.io (Service Booking Application)
-**Tech Stack**: Laravel, React Native, Firebase  
-- Enables users to book appointments with professionals like doctors, stylists, electricians, and more.  
-- Real-time booking management with notifications.
+### 3. FxxK 
+**Website**: [fraukruner.de](https://fraukruner.de)  
+**Tech Stack**: Laravel, Livewire, MySQL  
+- Go and check your self
 
-### 3. Polytechnic Institute Graduate Tracker
-**Tech Stack**: Laravel, Filament  
-- A system for managing and tracking the records of graduates.  
-- Advanced search and filtering capabilities for administrators.
+### 4. NewsBrief (Personalized News Aggregator) 
+**Website**: [newsbriefapp.com](https://newsbriefapp.com)  
+**Android**: [Download APK](https://play.google.com/store/apps/details?id=com.newsbriefapp)  
+**IOS**: [Download IOS](https://apps.apple.com/us/app/newsbrief-news-brief-闪讯/id6737581802)  
+**Tech Stack**: Laravel, Flutter, AWS, React
+- Real-time news aggregation and personalized feeds from trusted global sources.
+- Intelligent summarization and seamless translation into multiple languages.
+- Delivers concise, accessible news summaries tailored to user interests and preferences.
+
+
 
 ---
 
@@ -50,17 +64,15 @@ Meet the brilliant minds behind our success:
 
 | Name   | Position            | Expertise                                 |
 |--------|--------------------|-------------------------------------------|
+| Sayed | Chairman | Laravel, React, Filament, Project Management |
 | Rayhan | CEO & Lead Developer | Laravel, React, Filament, Project Management |
-| Hasan  | Senior Backend Developer | Laravel, PHP, MySQL, API Integrations    |
-| Tania  | Frontend Developer   | React.js, Vue.js, Tailwind CSS            |
-| Sabbir | Mobile Developer     | React Native, Flutter                     |
-| Mehedi | DevOps Engineer      | Docker, CI/CD, AWS, Jenkins               |
-
----
-
-### 📊 Team Growth Over Time
-
-> Our rapid growth from a small team to a robust software company.
+| Tamim  | Project Manager | Laravel, PHP, MySQL, API Integrations    |
+| Kawshik | Android & IOS Dev  | React.js, Laravel, React Native, Flutter   |
+| Abdur | Senior Fullstack Dev     | Laravel, PHP, MySQL, API Integrations |
+| Shuvo | Fullstack Developer      | Laravel, PHP, MySQL  |
+| Alamin | Fullstack Developer      | Laravel, PHP, MySQL  |
+| Mahfuz | Fullstack Developer      | Laravel, PHP, MySQL  |
+| Oli  | Android & IOS Dev  | React.js, Laravel, React Native, Flutter   |
 
 ---
 
