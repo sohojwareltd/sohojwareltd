@@ -81,7 +81,7 @@ Meet the brilliant minds behind our success:
 - **Website**: [sohojware.com](https://sohojware.com)  
 - **GitHub**: [github.com/sohojware](https://github.com/sohojware)  
 - **LinkedIn**: [linkedin.com/company/sohojware](https://linkedin.com/company/sohojware)  
-- **Email**: contact@sohojware.com  
+- **Email**: sohojwareltd@gmail.com
 
 ---
 
